@@ -1,0 +1,85 @@
+[
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /FoCMakeFiles\\demo.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\src\\main.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/src/main.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\CameraComponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\CameraComponent.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/CameraComponent.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\ColliderComponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\ColliderComponent.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/ColliderComponent.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\Entity.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\Entity.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/Entity.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\InputSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\InputSystem.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/InputSystem.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\LightComponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\LightComponent.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/LightComponent.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\LogicComponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\LogicComponent.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/LogicComponent.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\LogicSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\LogicSystem.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/LogicSystem.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\Material.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\Material.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/Material.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\MeshRenderComponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\MeshRenderComponent.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/MeshRenderComponent.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\PhysicsSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\PhysicsSystem.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/PhysicsSystem.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\RenderSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\RenderSystem.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/RenderSystem.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\Shader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\Shader.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/Shader.cpp"
+},
+
+{
+  "directory": "C:/Users/Christopher/Documents/Projects/Hydra/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -I..\\engine\\include -I..\\engine\\thirdparty\\sdl2\\include -I\"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\" -I..\\engine\\thirdparty\\glm\\include -I..\\engine\\thirdparty\\objl\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /Foengine\\CMakeFiles\\engine.dir\\src\\Texture.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Christopher\\Documents\\Projects\\Hydra\\engine\\src\\Texture.cpp",
+  "file": "C:/Users/Christopher/Documents/Projects/Hydra/engine/src/Texture.cpp"
+}
+]

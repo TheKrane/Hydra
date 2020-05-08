@@ -1,0 +1,21 @@
+# ninja log v5
+11	624	610653492	engine/CMakeFiles/engine.dir/src/LogicComponent.cpp.obj	f0763088e9d17ced
+21	940	610653493	engine/CMakeFiles/engine.dir/src/LogicSystem.cpp.obj	d67994ec53485700
+4	1348	610653493	engine/CMakeFiles/engine.dir/src/CameraComponent.cpp.obj	d772870756985645
+18	1387	610653493	engine/CMakeFiles/engine.dir/src/LightComponent.cpp.obj	438bc3070a6e4748
+9	1429	610653493	engine/CMakeFiles/engine.dir/src/InputSystem.cpp.obj	cbbe7231e0251cd
+6	1437	610653493	engine/CMakeFiles/engine.dir/src/ColliderComponent.cpp.obj	c29f7365a5b652f7
+14	1494	610653493	engine/CMakeFiles/engine.dir/src/Entity.cpp.obj	d6c0ef7bb2bde688
+24	1517	610653493	engine/CMakeFiles/engine.dir/src/PhysicsSystem.cpp.obj	1369cafff0781ea
+36	1583	610653493	engine/CMakeFiles/engine.dir/src/Texture.cpp.obj	d61341bdcb0f6c3b
+39	1707	610653494	engine/CMakeFiles/engine.dir/src/Shader.cpp.obj	4b47e28eb2fc61f7
+1	1723	610653494	CMakeFiles/demo.dir/src/main.cpp.obj	4f9f75d8eed2dd85
+27	1798	610653494	engine/CMakeFiles/engine.dir/src/RenderSystem.cpp.obj	775b99f88e55e7e3
+30	1913	610653494	engine/CMakeFiles/engine.dir/src/Material.cpp.obj	927b0be5795ee3f0
+33	2002	610653494	engine/CMakeFiles/engine.dir/src/MeshRenderComponent.cpp.obj	8f0e2455b7c902a2
+2002	2046	610653494	engine/engine.lib	d8450897c723b563
+2046	2388	610653494	demo.exe	3cc0a1764d3ce509
+2	824	610653615	CMakeFiles/demo.dir/src/main.cpp.obj	4f9f75d8eed2dd85
+824	953	610653615	demo.exe	3cc0a1764d3ce509
+2	862	610653637	CMakeFiles/demo.dir/src/main.cpp.obj	4f9f75d8eed2dd85
+863	985	610653637	demo.exe	3cc0a1764d3ce509
